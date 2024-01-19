@@ -4,7 +4,7 @@ This repository contains code and resources for interfacing the MFC6000 sensor w
 
 ## Overview
 
-The purpose of this project is to provide a convenient and straightforward solution for communicating with the MFC6000 sensor over RS485. The included class, `MFC6000_RS485`, facilitates the implementation of necessary commands outlined in the MFC6000 datasheet.
+The purpose of this project is to provide a convenient and straightforward solution for communicating with the MFC6000 sensor over RS485. The included class, `MFC6000`, facilitates the implementation of necessary commands outlined in the MFC6000 datasheet.
 
 ## Features
 
